@@ -10,17 +10,17 @@ url: "http://baixin.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: 
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
+    weibo: 6232934984
     github: MikasaAckermanzzz
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    jianshu: 
     # twitter: 
     mail: 17371305957@163.com
 
